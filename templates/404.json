@@ -1,0 +1,13 @@
+{
+    "name": "404",
+    "layout": "custom_theme",
+    "wrapper": "div#404_template.custom-class[custom-attr='custom-value']",
+    "sections": {
+        "template_404" : {
+            "type": "example-404",
+        }
+
+    },
+    "order": ["template_404"]
+    
+}
